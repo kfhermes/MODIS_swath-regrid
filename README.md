@@ -4,7 +4,7 @@ Code for computing DOD from MODIS AOD, Angstom exponent and single scattering al
 Regridding from swath to custom grid using normalised nearest_d2s. 
 
 This code can be run as is on the JASMIN HPC system.
-Remember to update paths and SLURM settings before submissing jobs.
+Remember to update paths and SLURM settings before submitting jobs.
 
 
 ### References:
